@@ -7,4 +7,4 @@
 
 
 
-![image](https://github.com/ProdigalMan/net_dev/edit/main/img/net_architecture.png)
+![image]https://github.com/ProdigalMan/net_dev/tree/main/img/net_architecture.png)
